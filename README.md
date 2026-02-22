@@ -73,22 +73,22 @@ GROUP BY segment;
 ```
 
 ### Key Findings 
-#### Smoking Status as a primary Cost Driver
+#### 1. Smoking Status as a primary Cost Driver
 Average insurance charges for smokers (~32050) were nearly four times higher than for non smokers(~8434).
 This indicates that behavioural risk factors strongly influence insurance pricing models, outweighing most demographic variables.
-#### Age vs Cost Trend
+#### 2. Age vs Cost Trend
 Average insurance charges showed a gradual increase from early adulthood(~7000-9000 range) to later ages(~13000+ by age 60 +).
 The growth pattern was steady rather than exponential, suggesting age contributes to incremental risk accumulation rather than sudden cost escalation.
-#### Customer Segmentation Distribution
+#### 3. Customer Segmentation Distribution
 Customer segments were distributed as follows:
 - Standard: 46.3%
 - Young Healthy: 24.7%
 - Premium Customer: 16.4%
 - Family High Dependence: 12.5%
 The distribution forms a risk pyramid, where mid-risk customers dominate the portfolio while high-cost premium customers represent a smaller but influential group.
-#### Young Healthy Segment as a Growth Cohort
+#### 4. Young Healthy Segment as a Growth Cohort
 Nearly one-fourth of customers belong to the Young Healthy category. Although their current charges are lower, this group represents potential long-term revenue as insurance costs tend to increase with age.
-#### Structural Risk from Family Dependence
+#### 5. Structural Risk from Family Dependence
 Customers with multiple dependents account for 12.5% of the population. While smaller in size, this segment introduces structural risk due to increased claim probability and long-term coverage needs.
 
 ### Overall Interpretation 
